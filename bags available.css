@@ -1,0 +1,18 @@
+body{
+   background-image: none;
+   color:hsl(0, 54%, 28%);
+    font-weight: bold;
+   font-size: large;
+   align-items: center;
+   
+}
+ 
+.row{
+
+    display: flex;
+}
+ .column{
+
+    display: 70%;
+    padding: 10px;
+ }

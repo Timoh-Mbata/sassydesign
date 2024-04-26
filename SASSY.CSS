@@ -1,0 +1,41 @@
+.button {
+   background-color: hsl(hue, saturation, lightness);
+   font-size: large;
+   font-style: helvetica;
+   border: none;
+   display: flex;
+   padding: 40px;
+   text-transform: uppercase;
+   columns: unset;
+   row-gap: 25px;
+   color:hsl(202, 74%, 30%);
+   font-weight: bold;
+   cursor: pointer
+   
+
+}
+body {
+    background-image: url("back4.webp");
+    background-size: cover;
+    background-position: center;
+   align-items: center;
+    display: inline;
+    justify-content: center;
+    height: 100vh;
+}
+img{
+    border-image: none;
+    background-position: center;
+    border-radius: 50px;
+    border: 0px; 
+}
+.center{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+    }
